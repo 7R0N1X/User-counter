@@ -13,7 +13,7 @@ To start using this project, follow the steps below:
 - Open the project in your favorite editor and run: **npm i**
 
 ### Usage
-To start the server just run: **npm run server**
+To start the server just run: **npm run server**  
 Then, in your browser, go to the following address: http://localhost:4000
 ### License
 User counter is an open source project by [7R0N1X](https://github.com/7r0n1x "7R0N1X") licensed by [MIT](https://opensource.org/licenses/MIT "MIT"). 7R0N1X reserves the right to change the license for future versions.
